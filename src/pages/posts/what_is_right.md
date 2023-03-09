@@ -5,8 +5,8 @@ pubDate: 2023-03-09
 description: '本文以自我为观察对象得出结论，我一向认为自我与他人没有什么本质区别，因此研究自我，也是在研究众生'
 author: 'Jacin'
 cover:
-    url: '##'
-    square: '##'
+    url: 'https://www.toyo.ac.jp/nyushi/img/undergraduate/soc/index_hero_01.jpg'
+    square: 'https://www.toyo.ac.jp/nyushi/img/undergraduate/soc/index_hero_01.jpg'
     alt: 'cover'
 tags: ["随想"] 
 theme: 'light'

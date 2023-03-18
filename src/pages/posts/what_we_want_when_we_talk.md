@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '随便的想法'
-pubDate: 2023-03-10
+pubDate: 2023-03-18
 description: '不想去考虑什么主题，内容了，想到什么就写什么，也不在意用词是否得当，表达是否流畅等诸多问题'
 author: 'Jacin'
 cover:

@@ -5,8 +5,8 @@ pubDate: 2023-03-18
 description: '不想去考虑什么主题，内容了，想到什么就写什么，也不在意用词是否得当，表达是否流畅等诸多问题'
 author: 'Jacin'
 cover:
-    url: 'https://cdn.leonardo.ai/users/7bd46dfe-72d3-4001-a0c8-9df075e065e4/generations/8c493620-cd76-4fa7-be6a-ed5f09db0b35/Default_A_bustling_metropolis_illuminated_by_the_setting_sun_the_sta_0.jpg'
-    square: 'https://cdn.leonardo.ai/users/7bd46dfe-72d3-4001-a0c8-9df075e065e4/generations/8c493620-cd76-4fa7-be6a-ed5f09db0b35/Default_A_bustling_metropolis_illuminated_by_the_setting_sun_the_sta_0.jpg'
+    url: 'https://asiasociety.org/files/uploads/265images/140501_pod_singapore.jpg'
+    square: 'https://asiasociety.org/files/uploads/265images/140501_pod_singapore.jpg'
     alt: 'cover'
 tags: ["随想"] 
 theme: 'light'
